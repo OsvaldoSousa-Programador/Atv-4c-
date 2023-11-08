@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Priscilla\\Desktop\\Atividade 4c\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Priscilla\\Desktop\\Osvaldo\\Senai\\Atividade 4c\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\Priscilla\\Desktop\\Atividade 4c\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\Priscilla\\Desktop\\Osvaldo\\Senai\\Atividade 4c\\Exo.WebApi\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\Priscilla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Priscilla\\Desktop\\Atividade 4c\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Priscilla\\Desktop\\Osvaldo\\Senai\\Atividade 4c\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Priscilla\\AppData\\Roaming\\NuGet\\NuGet.Config"
