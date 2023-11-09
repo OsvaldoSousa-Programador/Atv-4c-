@@ -54,5 +54,6 @@ namespace Exo.WebApi.Repositories
             _context.Usuarios.Remove(usuarioBuscado);
             _context.SaveChanges();
         }
+        
     }
 }
